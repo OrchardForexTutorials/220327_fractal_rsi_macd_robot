@@ -4,6 +4,10 @@ This code uses the earlier code on a Fractal / EMA based expert to show how to a
 indicator as a trend filter and to change the entry criteria from a buy stop / sell stop to entering
 on close of a breakout candle
 
+The Orchard Framework is available as a separate repository at https://github.com/OrchardForexTutorials/framework_3
+
+This code is for education and entertainment purposes only, it is not to be used for live trading.
+
 ### License
 
 The project is released under [GNU GPLv3 licence](https://www.gnu.org/licenses/quick-guide-gplv3.html),
